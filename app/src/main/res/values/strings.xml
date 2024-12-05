@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Penurunan30</string>
+    <string name="top_bar">30 Hari Perjalanan Penurunan Berat Badan</string>
+
+    <string name="day1">Hari 1</string>
+    <string name="title1">Pengenalan Penurunan Berat Badan</string>
+    <string name="description1">Pelajari dasar-dasar penurunan berat badan, termasuk keseimbangan kalori, olahraga, dan membangun kebiasaan sehat.</string>
+
+    <string name="day2">Hari 2</string>
+    <string name="title2">Menetapkan Tujuan Realistis</string>
+    <string name="description2">Tentukan tujuan penurunan berat badan Anda dan buat jadwal yang realistis. Fokus pada kemajuan yang berkelanjutan daripada hasil instan.</string>
+
+    <string name="day3">Hari 3</string>
+    <string name="title3">Memahami Nutrisi</string>
+    <string name="description3">Pelajari dasar-dasar makronutrien dan bagaimana pengaruhnya terhadap energi, metabolisme, dan penurunan berat badan.</string>
+
+    <string name="day4">Hari 4</string>
+    <string name="title4">Perencanaan Makan</string>
+    <string name="description4">Pelajari cara merencanakan makanan dan camilan seimbang yang membuat Anda kenyang dan bertenaga sepanjang hari.</string>
+
+    <string name="day5">Hari 5</string>
+    <string name="title5">Pentingnya Hidrasi</string>
+    <string name="description5">Pahami pentingnya tetap terhidrasi untuk metabolisme dan tingkat energi yang optimal.</string>
+
+    <string name="day6">Hari 6</string>
+    <string name="title6">Memasukkan Olahraga</string>
+    <string name="description6">Jelajahi berbagai bentuk olahraga seperti kardio, latihan kekuatan, dan yoga untuk melengkapi perjalanan penurunan berat badan Anda.</string>
+
+    <string name="day7">Hari 7</string>
+    <string name="title7">Melacak Kemajuan</string>
+    <string name="description7">Pelajari cara memantau kemajuan Anda melalui penimbangan berat badan, pengukuran, dan foto.</string>
+
+    <string name="day8">Hari 8</string>
+    <string name="title8">Kebiasaan Makan Sehat</string>
+    <string name="description8">Identifikasi dan ganti kebiasaan makan yang tidak sehat dengan pilihan yang lebih cerdas untuk tetap pada jalur.</string>
+
+    <string name="day9">Hari 9</string>
+    <string name="title9">Mengatasi Plateau</string>
+    <string name="description9">Pahami mengapa plateau terjadi dan strategi untuk mengatasinya secara efektif.</string>
+
+    <string name="day10">Hari 10</string>
+    <string name="title10">Makan dengan Kesadaran</string>
+    <string name="description10">Praktikkan makan dengan kesadaran untuk menikmati makanan, menghindari makan berlebihan, dan mengembangkan hubungan positif dengan makanan.</string>
+
+    <string name="day11">Hari 11</string>
+    <string name="title11">Manajemen Stres</string>
+    <string name="description11">Pelajari bagaimana stres memengaruhi berat badan dan teknik untuk mengelolanya, seperti meditasi dan pernapasan dalam.</string>
+
+    <string name="day12">Hari 12</string>
+    <string name="title12">Tidur dan Penurunan Berat Badan</string>
+    <string name="description12">Pelajari bagaimana kualitas tidur sangat penting untuk penurunan berat badan dan kesehatan secara keseluruhan.</string>
+
+    <string name="day13">Hari 13</string>
+    <string name="title13">Menghitung Kalori</string>
+    <string name="description13">Kuasi seni menghitung kalori dan menggunakan aplikasi atau alat untuk tetap dalam rentang target Anda.</string>
+
+    <string name="day14">Hari 14</string>
+    <string name="title14">Tips Persiapan Makanan</string>
+    <string name="description14">Hemat waktu dan tetap konsisten dengan strategi persiapan makanan yang praktis.</string>
+
+    <string name="day15">Hari 15</string>
+    <string name="title15">Latihan Intensitas Tinggi</string>
+    <string name="description15">Jelajahi manfaat latihan interval intensitas tinggi (HIIT) untuk membakar lemak dan meningkatkan stamina.</string>
+
+    <string name="day16">Hari 16</string>
+    <string name="title16">Dukungan Sosial</string>
+    <string name="description16">Pelajari cara membangun sistem pendukung dan dikelilingi oleh orang-orang yang memotivasi dan menginspirasi Anda.</string>
+
+    <string name="day17">Hari 17</string>
+    <string name="title17">Mengatasi Keinginan Makan</string>
+    <string name="description17">Identifikasi penyebab keinginan makan dan tips untuk menahan atau mengelolanya dengan cara yang sehat.</string>
+
+    <string name="day18">Hari 18</string>
+    <string name="title18">Belanja Bahan Makanan</string>
+    <string name="description18">Buat daftar belanja makanan sehat dan hindari kesalahan umum saat berbelanja.</string>
+
+    <string name="day19">Hari 19</string>
+    <string name="title19">Penggantian Sehat</string>
+    <string name="description19">Ganti makanan tinggi kalori dengan pilihan yang lebih sehat tanpa mengorbankan rasa.</string>
+
+    <string name="day20">Hari 20</string>
+    <string name="title20">Latihan Kekuatan</string>
+    <string name="description20">Masukkan latihan kekuatan ke dalam rutinitas Anda untuk membangun otot dan meningkatkan metabolisme.</string>
+
+    <string name="day21">Hari 21</string>
+    <string name="title21">Merayakan Pencapaian</string>
+    <string name="description21">Hadiahi diri Anda atas pencapaian tujuan tanpa mengandalkan hadiah berbasis makanan.</string>
+
+    <string name="day22">Hari 22</string>
+    <string name="title22">Menghadapi Kemunduran</string>
+    <string name="description22">Pelajari cara pulih dan kembali fokus setelah kemunduran atau hari curang.</string>
+
+    <string name="day23">Hari 23</string>
+    <string name="title23">Perubahan Pola Pikir</string>
+    <string name="description23">Adopsi pola pikir berkembang untuk melihat tantangan sebagai peluang untuk meningkatkan diri.</string>
+
+    <string name="day24">Hari 24</string>
+    <string name="title24">Camilan Sehat</string>
+    <string name="description24">Temukan camilan yang mengenyangkan dan bergizi yang sesuai dengan tujuan penurunan berat badan Anda.</string>
+
+    <string name="day25">Hari 25</string>
+    <string name="title25">Positif terhadap Tubuh</string>
+    <string name="description25">Hargai tubuh Anda dan fokus pada kesehatan daripada hanya angka pada timbangan.</string>
+
+    <string name="day26">Hari 26</string>
+    <string name="title26">Latihan Kardio</string>
+    <string name="description26">Masukkan berbagai bentuk kardio ke dalam rutinitas Anda agar latihan tetap menyenangkan dan efektif.</string>
+
+    <string name="day27">Hari 27</string>
+    <string name="title27">Memahami Kehilangan Lemak</string>
+    <string name="description27">Pelajari sains di balik kehilangan lemak dan cara memaksimalkan usaha Anda.</string>
+
+    <string name="day28">Hari 28</string>
+    <string name="title28">Memasak Sehat</string>
+    <string name="description28">Kuasi resep sederhana dan lezat yang sesuai dengan tujuan Anda.</string>
+
+    <string name="day29">Hari 29</string>
+    <string name="title29">Kebiasaan Proaktif</string>
+    <string name="description29">Bangun kebiasaan yang bertahan lama untuk mempertahankan kemajuan Anda dalam jangka panjang.</string>
+
+    <string name="day30">Hari 30</string>
+    <string name="title30">Refleksi dan Perayaan</string>
+    <string name="description30">Refleksi perjalanan Anda, rayakan keberhasilan Anda, dan rencanakan untuk masa depan.</string>
+</resources>
